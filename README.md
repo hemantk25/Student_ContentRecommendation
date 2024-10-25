@@ -1,1 +1,2 @@
 # Student_ContentRecommendation
+ This repository focuses on using large language models to personalize responses and recommendations. It tailors answers based on the user’s profile and prior interactions, which could be useful in a classroom setting to provide customized content for each student. The project emphasizes privacy by de-identifying user data and uses meta-learning techniques to adapt its responses to user needs.
